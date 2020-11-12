@@ -6,7 +6,7 @@
 
  date    : 2020/11/11 
 
- update :
+ update :　2020/11/12
 
 ***
 
@@ -31,7 +31,7 @@ npm i @babel/core @babel/node @babel/preset-env --save-dev
 ***
 ### more
 
-
+https://note.com/knaka0209/n/n5a6cffe7a23d
 
 ***
 
